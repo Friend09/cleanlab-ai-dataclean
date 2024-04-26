@@ -1,1 +1,5 @@
 cleanlab
+sentence_transformers
+ipykernel
+nbconvert
+tqdm
